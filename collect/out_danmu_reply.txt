@@ -1,0 +1,86 @@
+
+2023-01-09 17:35:15爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=5&oid=947499368&plat=1&seek_rpid=&type=1
+
+2023-01-09 19:44:08爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=13&oid=691293946&plat=1&seek_rpid=&type=1
+
+2023-01-10 00:06:08爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=24&oid=649012210&plat=1&seek_rpid=&type=1
+
+2023-01-10 16:12:09爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=264985099&plat=1&seek_rpid=&type=1
+
+2023-01-10 17:28:16爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=3&oid=777441675&plat=1&seek_rpid=&type=1
+
+2023-01-10 22:13:00爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=264985099&plat=1&seek_rpid=&type=1
+
+2023-02-07 19:29:45爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=12&oid=651227855&plat=1&seek_rpid=&type=1
+
+2023-02-07 20:33:15爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=21&oid=351380391&plat=1&seek_rpid=&type=1
+
+2023-02-10 20:30:43爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=4&oid=224035552&plat=1&seek_rpid=&type=1
+
+2023-02-11 10:31:06爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=12&oid=308767576&plat=1&seek_rpid=&type=1
+
+2023-02-11 23:23:48爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=11&oid=651652195&plat=1&seek_rpid=&type=1
+
+2023-02-12 12:53:54爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=864076395&plat=1&seek_rpid=&type=1
+
+2023-02-12 20:51:03爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=18&oid=948976853&plat=1&seek_rpid=&type=1
+
+2023-02-12 23:08:30爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=2&oid=394077488&plat=1&seek_rpid=&type=1
+
+2023-02-12 23:12:56爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=2&oid=694017684&plat=1&seek_rpid=&type=1
+
+2023-02-13 18:43:03爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=22&oid=821052088&plat=1&seek_rpid=&type=1
+
+2023-02-15 15:02:16爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=21&oid=566812167&plat=1&seek_rpid=&type=1
+
+2023-02-15 15:02:50爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=864024925&plat=1&seek_rpid=&type=1
+
+2023-02-15 15:03:00爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=351867713&plat=1&seek_rpid=&type=1
+
+2023-02-15 16:01:03爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=5&oid=309065571&plat=1&seek_rpid=&type=1
+
+2023-02-15 16:08:53爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=14&oid=479348321&plat=1&seek_rpid=&type=1
+
+2023-02-15 16:20:09爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=20&oid=224242432&plat=1&seek_rpid=&type=1
+
+2023-02-16 00:01:34爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=20&oid=991689651&plat=1&seek_rpid=&type=1
+
+2023-02-16 00:50:01爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=11&oid=266970273&plat=1&seek_rpid=&type=1
+
+2023-02-16 01:32:32爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=16&oid=609336976&plat=1&seek_rpid=&type=1
+
+2023-02-16 01:42:10爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=22&oid=821810966&plat=1&seek_rpid=&type=1
+
+2023-02-16 09:55:54爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=694287590&plat=1&seek_rpid=&type=1
+
+2023-02-16 10:26:16爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=779258471&plat=1&seek_rpid=&type=1
+
+2023-02-16 10:38:40爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=524277536&plat=1&seek_rpid=&type=1
+
+2023-02-16 10:41:48爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=694330609&plat=1&seek_rpid=&type=1
+
+2023-02-16 10:53:40爬取文本异常https://api.bilibili.com/x/v1/dm/list.so?oid=1005599054
+
+2023-02-16 11:31:46爬取文本异常https://api.bilibili.com/x/v1/dm/list.so?oid=1004767684
+
+2023-02-16 11:45:06爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=694235554&plat=1&seek_rpid=&type=1
+
+2023-02-16 11:48:11爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=609215733&plat=1&seek_rpid=&type=1
+
+2023-02-16 11:50:46爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=436634696&plat=1&seek_rpid=&type=1
+
+2023-02-16 12:12:34爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=524218256&plat=1&seek_rpid=&type=1
+
+2023-02-16 12:20:31爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=566701860&plat=1&seek_rpid=&type=1
+
+2023-02-16 12:46:06爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=991674478&plat=1&seek_rpid=&type=1
+
+2023-02-16 13:20:25爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=436684608&plat=1&seek_rpid=&type=1
+
+2023-02-16 13:49:10爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=694016342&plat=1&seek_rpid=&type=1
+
+2023-02-16 14:04:51爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=351578175&plat=1&seek_rpid=&type=1
+
+2023-02-16 14:08:43爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=394051501&plat=1&seek_rpid=&type=1
+
+2023-02-16 15:12:14爬取文本异常https://api.bilibili.com/x/v2/reply/main?mode=3&next=1&oid=991404593&plat=1&seek_rpid=&type=1

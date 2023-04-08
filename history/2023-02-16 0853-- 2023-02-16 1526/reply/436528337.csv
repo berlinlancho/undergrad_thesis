@@ -1,0 +1,4 @@
+上传时间,回复数,点赞数,up是否回复,up是否点赞,评论文本
+1675948830,1,2,True,False,"我尝试了另外一种思路，好像也可以 LAMBDA(data,TEXTBEFORE(TEXTJOIN("""",TRUE,MAP(VSTACK(TAKE(data,1)-2,DROP(data,-1)),data,VSTACK(DROP(data,1),0),LAMBDA(a,b,c,IF(c-b=1,IF(b-a=1,"""",b&""-""),b&"","")))),"","",-1))"
+1676049504,0,0,False,False,创作不易给你点赞
+1676049560,0,0,False,False,[打call][打call]

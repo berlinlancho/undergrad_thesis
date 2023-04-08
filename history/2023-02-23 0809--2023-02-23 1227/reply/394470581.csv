@@ -1,0 +1,9 @@
+上传时间,回复数,点赞数,up是否回复,up是否点赞,评论文本
+1676730020,0,0,False,False,up，讲讲新版函数吧
+1676595354,1,0,False,False,我选择下拉复制
+1676557676,0,0,False,False,那辅助列是不是不能删，只能隐藏了啊
+1676557068,0,0,False,False,这么说+0.1也是可以的[doge]
+1676555815,1,0,False,False,想问一下适用于什么情况下使用
+1676553765,0,0,False,False,巧妙
+1676553187,0,0,False,False,秀
+1676811663,0,0,False,False,"TRIM(MID(SUBSTITUTE(CONCAT(REPT(A2:A7&"" "",B2:B7)),"" "",REPT("" "",99)),ROW(A1)*99-98,99))"

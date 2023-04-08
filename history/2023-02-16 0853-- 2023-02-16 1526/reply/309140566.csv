@@ -1,0 +1,19 @@
+上传时间,回复数,点赞数,up是否回复,up是否点赞,评论文本
+1676511908,1,0,True,False,array不是自带这些么，不需要lodash。还有get直接用？.。而且很多函数公司里面根本不建议用。写着玩的项目可以用，复杂项目基本上不可能去用lodash。code review都过不了。要是十年前lodash还是有点用的，随着es标准逐步增加功能，项目对包体积和性能越来重视，lodash基本上都淘汰了
+1676431631,1,0,True,False,[打call][打call][打call]
+1676253240,1,0,True,False,[打call][打call][打call]
+1676253214,1,0,True,False,我来了 哈哈哈
+1676274887,1,0,True,False,不错 [打call][打call][打call]
+1676253178,1,0,True,False,我来了  哈哈哈
+1676037665,0,0,False,False,[打call][打call][打call]
+1676303414,1,0,True,False,视频开头声音巨大，然后正文声音巨小[doge]
+1676169972,2,0,True,False,这玩意包太大了
+1676039156,0,1,False,True,[打call][打call][打call]
+1676202638,1,0,True,False,第一个可以写成data?.a?.b?.c??10，其他的也都有原生现成的
+1676114245,3,0,True,False,对象 交集差集也有方法吗
+1676039150,1,0,True,False,讲的确实不错，你的币有了，[打call][打call][打call]
+1676088944,1,0,True,False,深度克隆不是最常用的嘛[吃瓜]虽然我项目用得少
+1676050242,2,0,True,False,"1. 最后一个some，还是调用的every，不知道是不是不小心写错了
+2. 很多方法,在数组都有现成的。
+  1. 可终止的forEach，套用原生find，some
+  2. 其他的类似map，filter，includes，findIndex, some, every, flat, flatMap[吃瓜]都挺好用的"
